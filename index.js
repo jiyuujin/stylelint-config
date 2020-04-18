@@ -16,7 +16,7 @@ module.exports = {
         'selector-list-comma-newline-after': 'always-multi-line',
         'media-feature-name-no-vendor-prefix': true,
         'max-empty-lines': 2,
-        'string-quotes': 'double',
+        'string-quotes': 'single',
         'declaration-block-no-duplicate-properties': true,
         'declaration-block-trailing-semicolon': 'always',
         'no-eol-whitespace': true,
