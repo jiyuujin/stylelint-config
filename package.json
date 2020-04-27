@@ -22,7 +22,7 @@
     "test": "eslint index.js"
   },
   "devDependencies": {
-    "@nekohack/eslint-config": "^0.2.1",
+    "@nekohack/eslint-config": "0.2.1",
     "stylelint": "13.2.1"
   }
 }
